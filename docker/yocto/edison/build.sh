@@ -1,1 +1,1 @@
-docker build -t pointlook/edison .
+docker build -t pointlook/yocto .
